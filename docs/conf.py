@@ -20,9 +20,9 @@ import stumpy
 
 # -- Project information -----------------------------------------------------
 
-project = "stumpy"
+project = "awesome-stumpy"
 copyright = (
-    "STUMPY\n"
+    "AWESOME-STUMPY\n"
     "Copyright 2019 TD Ameritrade. "
     "Released under the terms of the 3-Clause BSD license.\n"
     "STUMPY is a trademark of TD Ameritrade IP Company, Inc. "
@@ -90,7 +90,7 @@ pygments_style = None
 # a list of builtin themes.
 #
 html_theme = "pydata_sphinx_theme"
-html_logo = "_static/logo.png"
+# html_logo = "_static/logo.png"  # No logo for awesome-stumpy
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -102,11 +102,6 @@ html_theme_options = {
             "name": "GitHub",
             "url": "https://github.com/TDAmeritrade/stumpy",
             "icon": "fab fa-github-square",
-        },
-        {
-            "name": "Twitter",
-            "url": "https://twitter.com/stumpy_dev",
-            "icon": "fab fa-twitter-square",
         },
     ],
 }
@@ -169,7 +164,7 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [(master_doc, "stumpy", "stumpy Documentation", [author], 1)]
+man_pages = [(master_doc, "awesome-stumpy", "stumpy Documentation", [author], 1)]
 
 
 # -- Options for Texinfo output ----------------------------------------------
@@ -180,7 +175,7 @@ man_pages = [(master_doc, "stumpy", "stumpy Documentation", [author], 1)]
 texinfo_documents = [
     (
         master_doc,
-        "stumpy",
+        "awesome-stumpy",
         "stumpy Documentation",
         author,
         "stumpy",
