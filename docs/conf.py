@@ -31,9 +31,9 @@ copyright = (
 author = "Sean M. Law"
 
 # The short X.Y version
-version = stumpy.__version__
+version = 0.1.0
 # The full version, including alpha/beta/rc tags
-release = stumpy.__version__
+release = 0.1.0
 
 
 # -- General configuration ---------------------------------------------------

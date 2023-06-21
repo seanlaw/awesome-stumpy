@@ -1,4 +1,4 @@
-STUMPY documentation
+Awesome STUMPY documentation
 ====================
 
 .. toctree::
