@@ -1,6 +1,7 @@
 sphinx>=3.5.3
 nbsphinx
 pydata-sphinx-theme
+sphinx-design
 ipython
 numpydoc
 stumpy
